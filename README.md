@@ -1,0 +1,2 @@
+# nm
+nm c++filt
